@@ -25,7 +25,6 @@ jobs:
       matrix:
         scenario:
           # QEMU test leap
-          - { image: "centos-9", env: "qemu-ansible-core-2.16" }
           - { image: "leap-15.6", env: "qemu-ansible-core-2.18" }
 
     env:
