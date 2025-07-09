@@ -22,4 +22,8 @@ galaxy_info:
     - fedora
     - hacluster
     - pacemaker
+    - leap
+    - leap15
+    - leap15.6
+    - suse
 dependencies: []
